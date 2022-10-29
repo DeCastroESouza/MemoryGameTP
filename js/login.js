@@ -4,7 +4,6 @@ const form = document.querySelector('.login-form');
 const timer = document.querySelector('.timer');
 
 const validateInput = ({ target }) => {
-
 }
 
 const handleSubmit = (event) => {
